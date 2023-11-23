@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: floralwhite;
+    color: rgba(0, 0, 0, 0.801);
+  }
+  
+  .content {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 43px;
+    border: 0px solid orangered;
+    padding: 17px;
+    border-radius: 9px;
+    background-color: rgba(255, 127, 80, 0.363);
+    box-shadow: 1px 1px 5px 1px rgba(255, 0, 0, 0.712);
+  }
